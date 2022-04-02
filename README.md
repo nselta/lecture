@@ -11,5 +11,6 @@
 <div align="center">
   <img src="https://github.com/bbkvsrg/lecture-notes/blob/main/%D0%9E%D0%98%D0%9C%D0%A3/lecture_01/images/l1_01.svg" width="50%" title="Эволюция глаза"/>
   
-  Рисунок 1 – Эволюция глаза
+  Рисунок 1 – Контраст
 </div>
+
